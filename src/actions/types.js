@@ -1,0 +1,2 @@
+export const SET_CUSTOMERS = "SET_CUSTOMERS"
+export const ADD_CUSTOMER = "ADD_CUSTOMER"
